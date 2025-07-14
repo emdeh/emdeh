@@ -2,7 +2,7 @@
 
 [Project One Link](emdeh/wiki/ProjectOne)
 
-[Project One Link]([emdeh/wiki/ProjectOne](https://github.com/emdeh/emdeh/wiki/ProjectOne)
+[Project One Link](https://github.com/emdeh/emdeh/wiki/ProjectOne)
 
 <!--
 **emdeh/emdeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
